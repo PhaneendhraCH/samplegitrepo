@@ -2,4 +2,4 @@ sample file here
 
 hello
 
-hey i added a new feature
+Changes I made 
